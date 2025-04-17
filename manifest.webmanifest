@@ -4,6 +4,7 @@
   "theme_color": "#1976d2",
   "background_color": "#303030",
   "display": "standalone",
+  "id": "/Magic-Print-Generator/",
   "scope": "./",
   "start_url": "./",
   "icons": [
