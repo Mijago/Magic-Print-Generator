@@ -10,6 +10,9 @@ MIT
 @angular/platform-browser
 MIT
 
+@angular/service-worker
+MIT
+
 @babel/runtime
 MIT
 MIT License
