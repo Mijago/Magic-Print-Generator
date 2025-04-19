@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1745010732130,
+  "timestamp": 1745053340921,
   "index": "/Magic-Print-Generator/index.html",
   "assetGroups": [
     {
@@ -16,7 +16,7 @@
         "/Magic-Print-Generator/627.f54dbde8554fc84e.js",
         "/Magic-Print-Generator/842.c6086e3ca147a615.js",
         "/Magic-Print-Generator/index.html",
-        "/Magic-Print-Generator/main.2ac7518b4798e67b.js",
+        "/Magic-Print-Generator/main.0f859e9fab0471ae.js",
         "/Magic-Print-Generator/manifest.webmanifest",
         "/Magic-Print-Generator/polyfills.c1c27663155b6008.js",
         "/Magic-Print-Generator/runtime.df9bf8c873028d35.js",
@@ -72,8 +72,8 @@
     "/Magic-Print-Generator/assets/icons/icon-144x144.png": "adcf1ffa0fc9c0802a8abd77b6220ace7ddb6fc8",
     "/Magic-Print-Generator/assets/screenshots/mobile-screenshot.png": "f42ab04ca1c4e7938cc5223aef50aa3906f13084",
     "/Magic-Print-Generator/assets/screenshots/wide-screenshot.png": "b3f6f404faae392697d3a97c47e26fc2d80e8d20",
-    "/Magic-Print-Generator/index.html": "e10c30874f7103a66a2ca869e5706b0c93c7ddac",
-    "/Magic-Print-Generator/main.2ac7518b4798e67b.js": "adf720b26fb6882131b83afe69f1a0a559b46fc4",
+    "/Magic-Print-Generator/index.html": "6b1bbd28bae454d227718e33239999f9a4c7ce74",
+    "/Magic-Print-Generator/main.0f859e9fab0471ae.js": "08ddfa455c69f5da346b30eaf3b10b68f0a61ca8",
     "/Magic-Print-Generator/manifest.webmanifest": "055f6045733f1673d1283cc9bb0c15b140591faa",
     "/Magic-Print-Generator/polyfills.c1c27663155b6008.js": "74c4b84d35cc62611879dafdeac6de5c1df1f2ee",
     "/Magic-Print-Generator/runtime.df9bf8c873028d35.js": "78566eccc5cf0ac494455a91967d3297982fb7f1",
